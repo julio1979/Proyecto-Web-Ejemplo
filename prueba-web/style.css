@@ -36,3 +36,7 @@ body{
 body h2{
     color: azure;
 }
+body p{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(133, 37, 37);
+}
